@@ -9,7 +9,7 @@ I'm a Data Scientist and Software Engineer. I currently work as a Data Science C
 - 🌱 I’m currently learning Golang and Reactjs
 - 😊 I’m looking to contribute to open source projects
 - 💼 Interests: Data Science, Data Engineering, Software (Backend) Engineering
-- 📫 How to contact me: DM How to reach me: DM [Samson](https://www.linkedin.com/in/samson-adetutu/).
+- 📫 How to contact me: DM [Samson](https://www.linkedin.com/in/samson-adetutu/).
 
 ---
 
