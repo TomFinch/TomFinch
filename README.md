@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samson-adetutu/)](https://www.linkedin.com/in/samson-adetutu/) [![Blog Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@loquarts)](https://medium.com/@loquarts)
 
-I'm a Data Scientist and Software Engineer. I currently work as a Data Science Consultant in Lagos, Nigeria. I'm passionate about data, machine learning, analytics, web development, and others. I sometimes write here on my [Blog](https://medium.com/@loquarts). I also speak about data science and information technology in general at meetups/tech events and mentor aspiring data science enthusiasts... 
+I'm a Data Scientist and Software Engineer. I currently work as a Data Science Consultant in Lagos, Nigeria. I'm passionate about data, machine learning, analytics, web development, and others. I sometimes write here on my [Blog](https://medium.com/@loquarts). I also speak about data science and information technology in general at meetups/tech events and provide mentorship to aspiring data science enthusiasts... 
 
 **Here's a quick summary about me**:
 
